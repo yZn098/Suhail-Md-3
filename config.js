@@ -79,7 +79,7 @@ module.exports = {
   ownername:process.env.OWNER_NAME|| "YNWX<3",
 
 
-  errorChat : process.env.ERROR_CHAT || "ERRR",
+  errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
